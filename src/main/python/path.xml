@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Browsers>
+    <Browser>
+        <name>Chrome</name>
+        <path>C:\Users\hp\AppData\Local\Google\Chrome\Application\chromedriver.exe</path>
+    </Browser>
+    <Browser>
+        <name>Firefox</name>
+        <path>F:\Firefox\Firefoxdriver.exe</path>
+    </Browser>
+</Browsers>
